@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ihnwhi Heo</title>
+    <link>https://shenoybr.github.io/</link>
+    <description>Recent content on Ihnwhi Heo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://shenoybr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vitae</title>
+      <link>https://shenoybr.github.io/vitae/</link>
+      <pubDate>Wed, 21 Jul 2021 22:28:34 +0900</pubDate>
+      
+      <guid>https://shenoybr.github.io/vitae/</guid>
+      <description>INTERESTS Bayesian Inference, Structural Equation Modeling, Hypothesis Testing, Missing/Non-Normal Data, Metascience
+EDUCATION Utrecht University, The Netherlands Sep 2019 - CurrentM.Sc. Student in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences
+Advisor: Prof. Dr. Eric-Jan Wagenmakers
+Sungkyunkwan University, South Korea Mar 2013 - Aug 2019B.A. in Psychology, Highest Honors
+TEACHING EXPERIENCE Workgroup Instructor Summer, 2021Department of Methodology and Statistics, Utrecht University
+Course: Introduction to Structural Equation Modeling using Mplus, Advanced Course on using Mplus</description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://shenoybr.github.io/tutorials/</link>
+      <pubDate>Wed, 21 Jul 2021 22:19:49 +0900</pubDate>
+      
+      <guid>https://shenoybr.github.io/tutorials/</guid>
+      <description>R   R for beginners   Heo, I., Veen, D., &amp;amp; Van de Schoot, R. (2020, May). Tutorial: R for beginners. Zenodo. https://doi.org/10.5281/zenodo.3963825
+This tutorial provides the basics of R (R Core Team, 2020) for beginners. Our detailed instruction starts from the foundations including the installation of R and RStudio, the structure of R screen, and loading the data. We introduce basic functions for data exploration and data visualization.</description>
+    </item>
+    
+    <item>
+      <title>Ihnwhi Heo</title>
+      <link>https://shenoybr.github.io/about/</link>
+      <pubDate>Wed, 21 Jul 2021 22:17:47 +0900</pubDate>
+      
+      <guid>https://shenoybr.github.io/about/</guid>
+      <description>In retrospect, I have turned from a junior researcher who liked social psychology and was trained to find significant p-values into a methodologist who actively criticizes research misconducts and promotes the idea of Bayesian statistics. It was coincidental how I delved into the data-intensive aspect of psychology. When working as a research assistant at Utrecht University, the first role assigned to me was to code reported results for a meta-analysis. I was amazed by the idea of summarizing multiple results together.</description>
+    </item>
+    
+  </channel>
+</rss>
