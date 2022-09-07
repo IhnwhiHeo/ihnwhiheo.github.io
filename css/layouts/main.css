@@ -444,8 +444,7 @@ mark {
 
 @media only screen and (max-width: 576px) {
   .skills-section .container,
-  .projects-section .container,
-  .publications-section .container {
+  .projects-section .container {
     padding-left: 0.3rem;
     padding-right: 0.3rem;
   }
@@ -458,8 +457,7 @@ mark {
   .skills-section,
   .projects-section,
   .recent-posts-section,
-  .achievements-section,
-  .publications-section {
+  .achievements-section {
     padding-left: 0;
     padding-right: 0;
   }
