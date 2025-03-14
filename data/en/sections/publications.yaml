@@ -25,6 +25,26 @@ buttons:
 
 # your publications
 publications:
+- title: Parameter recovery for misspecified latent mediation models in the Bayesian framework
+  publishedIn:
+    name: "Structural Equation Modeling: A Multidisciplinary Journal"
+    date: 'in press'
+    url: https://www.tandfonline.com/journals/hsem20
+  authors:
+  - name: Haiyan Liu
+    url: https://sites.google.com/view/ucmhaiyanliu
+  - name: Ihnwhi Heo
+    url: http://ihnwhiheo.github.io/
+  - name: Sarah Depaoli
+    url: http://sarahdepaoli.com/
+  - name: Aleksandr Ivanov
+    url: 
+  paper:
+    summary: TBA.
+    url: 
+  categories: ["Bayesian Inference", "Structural Equation Modeling"]
+  tags: ["Bayesian Inference", "Structural Equation Modeling"]
+
 - title: Contributed discussion of "Sparse Bayesian factor analysis when the number of factors is unknown"
   publishedIn:
     name: "Bayesian Analysis"
