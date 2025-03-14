@@ -38,10 +38,10 @@ publications:
   - name: Sarah Depaoli
     url: http://sarahdepaoli.com/
   - name: Aleksandr Ivanov
-    url: ""
+    url: 
   paper:
     summary: Mediation analysis is widely used to examine whether a third variable mediates the relationship between two variables. Latent mediation analysis extends this framework to latent variables measured through observable indicators, combining measurement models and mediation paths. Accurate inference in latent mediation analysis depends on two critical assumptions: the correct specification of the measurement model and the absence of unmeasured confounders. However, these assumptions are often violated in practice. This study estimates latent mediation models within a Bayesian framework and investigates how specification errors and prior choices affect parameter estimates through a systematic simulation study. Specifically, we examine four typical specification errors: (1) misspecified (e.g., ignore cross-loading) measurement model for the mediator, (2) no measurement (e.g., using total score) models for the mediator, (3) no measurement models for confounders, and (4) ignoring confounders. We also evaluate the influence of prior specifications (diffuse vs. weakly informative) on Bayesian inference. The simulation results show that model misspecifications significantly affect the accuracy of mediation effect estimates. Standardized total scores for mediators and confounders attenuate mediation effects, bias parameter estimates, and produce inaccurate credible intervals. Ignoring confounders results in biased estimates, mainly when the confounding effects are medium- or large-sized. Adopting accurate weakly informative priors improves parameter recovery, coverage rates, and the ability to detect the true mediation effect compared to diffuse priors. 
-    url: ""
+    url: 
   categories: ["Bayesian Inference", "Structural Equation Modeling"]
   tags: ["Bayesian Inference", "Structural Equation Modeling"]
 
