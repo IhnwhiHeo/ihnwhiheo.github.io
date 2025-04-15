@@ -3,8 +3,8 @@ title: Ihnwhi Heo
 about:
     template: trestles
     links:
-        - icon: CV
-          url: files/Ihnwhi_Heo_CV_Current.pdf
+        - text: CV
+          url: "Ihnwhi_Heo_CV_Current.pdf"
         - icon: linkedin
           url: https://www.linkedin.com/in/ihnwhi-heo/
         - text: 𝕏
@@ -17,7 +17,6 @@ about:
           url: mailto:ihnwhi.heo@gmail.com
         - text: "{{< ai orcid >}}"
           url: https://orcid.org/0000-0002-6123-3639
-comments: false
 ---
 :::{#hero-heading}
 
