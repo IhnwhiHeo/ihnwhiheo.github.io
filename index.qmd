@@ -36,7 +36,7 @@ I examine the consequences of missing data for statistical modeling, and I devel
 
 #### (3) Application, dissemination, and collaborative use of quantitative methods
 
-I communicate and collaborate with methodological and applied researchers by writing tutorial papers for educational and school psychologists, partnering with social and health psychologists to investigate stress and mental health mechanisms, and proposing new psychometric or statistical frameworks for longitudinal, categorical, or social network data. I have also authored multiple statistical tutorials for $\texttt{R}$, $\texttt{JASP}$, and $\texttt{jamovi}$ aimed at applied researchers.
+I communicate and collaborate with methodological and applied researchers by writing tutorial or applied papers and proposing new psychometric or modeling frameworks for longitudinal, categorical, or social network data. I have also authored multiple statistics tutorials for $\texttt{R}$, $\texttt{JASP}$, and $\texttt{jamovi}$ aimed at applied researchers.
 
 ### Education
 
