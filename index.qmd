@@ -1,11 +1,37 @@
 ---
 title: Ihnwhi Heo
+about:
+    template: trestles
+    links:
+        - icon: CV
+          url: files/Ihnwhi_Heo_CV_Current.pdf
+        - icon: linkedin
+          url: https://www.linkedin.com/in/ihnwhi-heo/
+        - text: 𝕏
+          url: https://twitter.com/epichrisis
+        - icon: github
+          url: https://github.com/IhnwhiHeo
+        - text: "{{< ai google-scholar >}}"
+          url: https://scholar.google.com/citations?user=r365MK4AAAAJ&hl=en
+        - text: "{{< fa envelope >}}"
+          url: mailto:ihnwhi.heo@gmail.com
+        - text: "{{< ai orcid >}}"
+          url: https://orcid.org/0000-0002-6123-3639
+comments: false
 ---
+:::{#hero-heading}
 
-This is a Quarto website.
+### Bio
+I am a Ph.D. candidate in [Quantitative Methods, Measurement, and Statistics](https://psychology.ucmerced.edu/graduate-program/areas-focus/quantitative) at the University of California, Merced. I firmly believe that scientific discovery is a dynamic process driven by the continuous updating of scientific knowledge through experiential learning. This perspective aligns closely with the philosophical paradigm of Bayesian inference. My program of research centers on the development, evaluation, and application of Bayesian methodology for theory construction and statistical modeling in the field of psychological sciences. My expertise lies in Bayesian inference, structural equation modeling, mixture modeling, and longitudinal data analysis. My projects address methodological issues surrounding model estimation, model evaluation, hypothesis testing, and missing data. I have authored or co-authored articles in methodological journals, including Structural Equation Modeling: A Multidisciplinary Journal, Applied Psychological Measurement, Psychometrika, and Bayesian Analysis. In addition, I am dedicated to the dissemination of quantitative methods to applied researchers and have published tutorials on statistical software such as R, JASP, and jamovi.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Education
 
-```{r}
-1 + 1
-```
+University of California, Merced, USA
+Ph.D. in Quantitative Methods, Measurement, and Statistics | May 2026 (Expected)
+
+Utrecht University, The Netherlandsd
+M.Sc. in Methodology and Statistics | July 2021
+
+Sungkyunkwan University, South Korea
+B.A. in Psychology | August 2019
+

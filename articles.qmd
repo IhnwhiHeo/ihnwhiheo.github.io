@@ -2,7 +2,7 @@
 title: "Articles"
 ---
 
-# 2025
+## 2025
 
 - Liu, H., **Heo, I.**, Depaoli, S., \& Ivanov, A. (2025). Parameter recovery for misspecified latent mediation models in the Bayesian framework. *Structural Equation Modeling: A Multidisciplinary Journal*. Advance online publication. [https://doi.org/10.1080/10705511.2025.2475490](https://doi.org/10.1080/10705511.2025.2475490) 
   - [Link to PDF](files/papers/Liu2025_Parameter.pdf)
@@ -12,7 +12,7 @@ title: "Articles"
   - [Link to PDF](files/papers/Heo2024_Contributed.pdf)
 
 
-# 2024
+## 2024
 
 - **Heo, I.**, Depaoli, S., Jia, F., \& Liu, H. (2024). Bayesian approach to piecewise growth mixture modeling: Issues and applications in school psychology. *Journal of School Psychology, 107*. 101366. [https://doi.org/10.1016/j.jsp.2024.101366](https://doi.org/10.1016/j.jsp.2024.101366) 
   - [Link to PDF](files/papers/Heo2024_Bayesian.pdf)
@@ -22,7 +22,7 @@ title: "Articles"
   - [Link to PDF](files/papers/Heo2024_Performance.pdf)
 
 
-# 2023
+## 2023
 
 - Depaoli, S., Jia, F., \& **Heo, I.** (2023). Detecting model misspecification in Bayesian piecewise growth models. *Structural Equation Modeling: A Multidisciplinary Journal, 30*(4). 574--591. [https://doi.org/10.1080/10705511.2022.2144865](https://doi.org/10.1080/10705511.2022.2144865) 
   - [Link to PDF](files/papers/Depaoli2023_Detecting.pdf)

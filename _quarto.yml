@@ -3,13 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: Ihnwhi Heo Website
+  title: Ihnwhi's Website
   navbar:
     left:
       - href: index.qmd
         text: Bio
       - articles.qmd
-
+  google-analytics: "357254636"
+  page-footer:
+    center: Copyright. Ihnwhi Heo, 2025
+  
 format:
   html:
     theme: cosmo
