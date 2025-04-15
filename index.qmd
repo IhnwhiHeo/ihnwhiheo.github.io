@@ -22,7 +22,7 @@ image: img/profile.jpg
 
 ### Bio
 
-I am a Ph.D. candidate in [Quantitative Methods, Measurement, and Statistics](https://psychology.ucmerced.edu/graduate-program/areas-focus/quantitative) at the University of California, Merced. I firmly believe that scientific discovery is a dynamic process driven by the continuous updating of scientific knowledge through experiential learning. This perspective aligns closely with the philosophical paradigm of Bayesian inference. 
+I am a Ph.D. candidate in [Quantitative Methods, Measurement, and Statistics](https://psychology.ucmerced.edu/graduate-program/areas-focus/quantitative) at the University of California, Merced. I firmly believe that scientific discovery is a dynamic process, driven by the continuous updating of scientific knowledge through experiential learning. This perspective closely aligns with the philosophical paradigm of Bayesian inference. For additional details on my academic training and experience, please see my [curriculum vitae](Ihnwhi Heo CV Current.pdf).
 
 ### Program of Research
 
@@ -32,11 +32,11 @@ I develop and evaluate Bayesian methods (e.g., model averaging, model evaluation
 
 #### (2) Practical and computational approaches to missing data science
 
-I examine the consequences of missing data for model estimation and evaluation and develop multiple imputation techniques using modern data science techniques, including machine and deep learning algorithms for latent variable models.
+I examine the consequences of missing data for model estimation and evaluation, and I develop multiple imputation techniques using modern data science tools, including machine learning and deep learning algorithms, for use in latent variable models.
 
 #### (3) Application, dissemination, and collaborative use of quantitative methods
 
-I communicate and collaborate with applied researchers by writing tutorial papers for educational and school psychologists, partnering with social and health psychologists to investigate stress and mental health mechanisms, and proposing new psychometric frameworks for longitudinal or categorical data. I have also authored multiple statistical tutorials for $\texttt{R}$, $\texttt{JASP}$, and $\texttt{jamovi}$ aimed at applied researchers.
+I communicate and collaborate with methodological and applied researchers by writing tutorial papers for educational and school psychologists, partnering with social and health psychologists to investigate stress and mental health mechanisms, and proposing new psychometric or statistical frameworks for longitudinal, categorical, or social network data. I have also authored multiple statistical tutorials for $\texttt{R}$, $\texttt{JASP}$, and $\texttt{jamovi}$ aimed at applied researchers.
 
 ### Education
 
