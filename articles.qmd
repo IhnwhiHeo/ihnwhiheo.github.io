@@ -18,17 +18,18 @@ This page provides a list of peer-reviewed journal articles I have (co)authored 
 
 - **Heo, I.**, Depaoli, S., Jia, F., \& Liu, H. (2024). Bayesian approach to piecewise growth mixture modeling: Issues and applications in school psychology. *Journal of School Psychology, 107*. 101366. [https://doi.org/10.1016/j.jsp.2024.101366](https://doi.org/10.1016/j.jsp.2024.101366) 
   - [PDF](files/papers/Heo2024_Bayesian.pdf)
-
+  - [OSF](https://osf.io/udrb8/)
 
 - **Heo, I.**, Jia, F., \& Depaoli, S. (2024). Performance of model fit and selection indices for Bayesian piecewise growth modeling with missing data. *Structural Equation Modeling: A Multidisciplinary Journal, 31*(3). 455--476. [https://doi.org/10.1080/10705511.2023.2264514](https://doi.org/10.1080/10705511.2023.2264514) 
   - [PDF](files/papers/Heo2024_Performance.pdf)
+  - [OSF](https://osf.io/agn4x/)
 
 
 ## 2023
 
 - Depaoli, S., Jia, F., \& **Heo, I.** (2023). Detecting model misspecification in Bayesian piecewise growth models. *Structural Equation Modeling: A Multidisciplinary Journal, 30*(4). 574--591. [https://doi.org/10.1080/10705511.2022.2144865](https://doi.org/10.1080/10705511.2022.2144865) 
   - [PDF](files/papers/Depaoli2023_Detecting.pdf)
-
+  - [OSF](https://osf.io/myrds/)
 
 - **Heo, I.**, Jia, F., \& Depaoli, S. (2023). Book review of *Longitudinal structural equation modeling with Mplus: A latent state-trait perspective* by Geiser. *Psychometrika, 88*(2), 733--737. [https://doi.org/10.1007/s11336-022-09897-z](https://doi.org/10.1007/s11336-022-09897-z)
   - [PDF](files/papers/Heo2023_Book.pdf)
