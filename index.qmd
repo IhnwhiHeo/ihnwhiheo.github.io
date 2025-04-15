@@ -4,7 +4,7 @@ about:
     template: trestles
     links:
         - text: CV
-          url: "Ihnwhi_Heo_CV_Current.pdf"
+          url: "files/Ihnwhi Heo CV Current.pdf"
         - icon: linkedin
           url: https://www.linkedin.com/in/ihnwhi-heo/
         - text: 𝕏
@@ -20,6 +20,8 @@ about:
 ---
 
 ### Bio
+
+[my CV](Ihnwhi Heo CV Current.pdf)
 
 I am a Ph.D. candidate in [Quantitative Methods, Measurement, and Statistics](https://psychology.ucmerced.edu/graduate-program/areas-focus/quantitative) at the University of California, Merced. I firmly believe that scientific discovery is a dynamic process driven by the continuous updating of scientific knowledge through experiential learning. This perspective aligns closely with the philosophical paradigm of Bayesian inference. 
 
