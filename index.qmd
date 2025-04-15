@@ -36,7 +36,7 @@ I develop and evaluate Bayesian methods for latent variable models, including st
 
 I examine the consequences of missing data for statistical modeling and develop multiple imputation techniques using modern data science tools, including machine learning and deep learning algorithms.
 
-#### (3) Application, dissemination, and collaborative use of quantitative methods
+#### (3) Application, dissemination, and collaborative research in quantitative methods
 
 I communicate and collaborate with methodological and applied researchers by writing tutorial or applied papers and proposing new psychometric or modeling frameworks for longitudinal, categorical, or social network data. I have also authored multiple statistics tutorials for $\texttt{R}$, $\texttt{JASP}$, and $\texttt{jamovi}$ aimed at applied researchers.
 
