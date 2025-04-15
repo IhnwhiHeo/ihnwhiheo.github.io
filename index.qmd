@@ -14,7 +14,7 @@ about:
         - icon: github
           url: https://github.com/IhnwhiHeo
 #        - icon: linkedin
-#          url: https://www.linkedin.com/in/ihnwhi-heo/
+#          url: https://www.linkedin.com/in/ihnwhi-heo
 #        - text: 𝕏
 #          url: https://twitter.com/epichrisis
 #        - text: "{{< ai orcid >}}"
