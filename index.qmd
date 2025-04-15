@@ -32,7 +32,7 @@ I develop and evaluate Bayesian methods for latent variable models, including st
 
 #### (2) Practical and computational approaches to missing data science
 
-I examine the consequences of missing data for statistical modeling, and I develop multiple imputation techniques using modern data science tools, including machine learning and deep learning algorithms.
+I examine the consequences of missing data for statistical modeling and develop multiple imputation techniques using modern data science tools, including machine learning and deep learning algorithms.
 
 #### (3) Application, dissemination, and collaborative use of quantitative methods
 
