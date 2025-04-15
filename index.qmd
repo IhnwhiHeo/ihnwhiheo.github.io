@@ -28,11 +28,11 @@ I am a Ph.D. candidate in [Quantitative Methods, Measurement, and Statistics](ht
 
 #### (1) Bayesian methodology for theory construction and statistical modeling
 
-I develop and evaluate Bayesian methods (e.g., model averaging, model evaluation, regularization, estimation, and hypothesis testing) for latent variable models, including structural equation models, latent (e.g., piecewise) growth models, and mixture models.
+I develop and evaluate Bayesian methods for latent variable models, including structural equation models, latent (e.g., piecewise) growth models, and mixture models.
 
 #### (2) Practical and computational approaches to missing data science
 
-I examine the consequences of missing data for model estimation and evaluation, and I develop multiple imputation techniques using modern data science tools, including machine learning and deep learning algorithms, for use in latent variable models.
+I examine the consequences of missing data for statistical modeling, and I develop multiple imputation techniques using modern data science tools, including machine learning and deep learning algorithms.
 
 #### (3) Application, dissemination, and collaborative use of quantitative methods
 
