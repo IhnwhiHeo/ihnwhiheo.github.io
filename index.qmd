@@ -1,5 +1,7 @@
 ---
 title: Ihnwhi Heo
+subtitle: |
+  Psychological Methodologist and Statistician
 about:
     template: trestles
     links:

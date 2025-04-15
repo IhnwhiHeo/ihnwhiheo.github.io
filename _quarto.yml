@@ -4,18 +4,23 @@ project:
 
 website:
   title: Ihnwhi's Website
+  favicon: img/iheofavi.png
   navbar:
+    logo: img/iheoma.png
     left:
       - href: index.qmd
         text: Bio
       - articles.qmd
   google-analytics: "357254636"
   page-footer:
-    center: Copyright. Ihnwhi Heo, 2025
+    center: |
+      &copy; Ihnwhi Heo, 2025
   
 format:
   html:
     theme: simplex
+#      light: simplex
+#      dark: darkly
     css: styles.css
     toc: true
     page-layout: full
