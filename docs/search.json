@@ -11,6 +11,13 @@
     "href": "articles.html",
     "title": "Articles",
     "section": "",
-    "text": "2022\n\nLiu, R., Heo, I., Liu, H., Shi, D., & Jiang, Z. (2023). Applying negative binomial distribution in diagnostic classification models for analyzing count data. Applied Psychological Measurement, 47(1), 64–75. https://www.doi.org/10.1177/01466216221124604"
+    "text": "2025\n\nLiu, H., Heo, I., Depaoli, S., & Ivanov, A. (2025). Parameter recovery for misspecified latent mediation models in the Bayesian framework. Structural Equation Modeling: A Multidisciplinary Journal. Advance online publication. https://doi.org/10.1080/10705511.2025.2475490\n\nLink to PDF\n\nHeo, I., Pfadt, J. M., & Wagenmakers, E.–J. (2025). Contributed discussion of “Sparse Bayesian factor analysis when the number of factors is unknown”. Bayesian Analysis, 20(1). 295–296. https://doi.org/10.1214/24-BA1423\n\nLink to PDF\n\n\n\n\n2024\n\nHeo, I., Depaoli, S., Jia, F., & Liu, H. (2024). Bayesian approach to piecewise growth mixture modeling: Issues and applications in school psychology. Journal of School Psychology, 107. 101366. https://doi.org/10.1016/j.jsp.2024.101366\n\nLink to PDF\n\nHeo, I., Jia, F., & Depaoli, S. (2024). Performance of model fit and selection indices for Bayesian piecewise growth modeling with missing data. Structural Equation Modeling: A Multidisciplinary Journal, 31(3). 455–476. https://doi.org/10.1080/10705511.2023.2264514\n\nLink to PDF\n\n\n\n\n2023\n\nDepaoli, S., Jia, F., & Heo, I. (2023). Detecting model misspecification in Bayesian piecewise growth models. Structural Equation Modeling: A Multidisciplinary Journal, 30(4). 574–591. https://doi.org/10.1080/10705511.2022.2144865\n\nLink to PDF\n\nHeo, I., Jia, F., & Depaoli, S. (2023). Book review of Longitudinal structural equation modeling with Mplus: A latent state-trait perspective by Geiser. Psychometrika, 88(2), 733–737. https://doi.org/10.1007/s11336-022-09897-z\n\nLink to PDF\n\nLiu, R., Heo, I., Liu, H., Shi, D., & Jiang, Z. (2023). Applying negative binomial distribution in diagnostic classification models for analyzing count data. Applied Psychological Measurement, 47(1), 64–75. https://www.doi.org/10.1177/01466216221124604\n\nLink to PDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ihnwhi Heo",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
