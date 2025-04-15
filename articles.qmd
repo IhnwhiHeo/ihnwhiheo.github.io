@@ -1,0 +1,8 @@
+---
+title: "Articles"
+---
+
+# 2022
+
+- Liu, R., **Heo, I.**, Liu, H., Shi, D., & Jiang, Z. (2023). Applying negative binomial distribution in diagnostic classification models for analyzing count data. *Applied Psychological Measurement, 47*(1), 64--75. [https://www.doi.org/10.1177/01466216221124604](https://www.doi.org/10.1177/01466216221124604)
+

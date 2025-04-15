@@ -2,8 +2,15 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Articles",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "articles.html",
+    "href": "articles.html",
+    "title": "Articles",
+    "section": "",
+    "text": "2022\n\nLiu, R., Heo, I., Liu, H., Shi, D., & Jiang, Z. (2023). Applying negative binomial distribution in diagnostic classification models for analyzing count data. Applied Psychological Measurement, 47(1), 64–75. https://www.doi.org/10.1177/01466216221124604"
   }
 ]

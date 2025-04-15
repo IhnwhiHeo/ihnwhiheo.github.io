@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Bio
-      - publications.qmd
+      - articles.qmd
 
 format:
   html:
