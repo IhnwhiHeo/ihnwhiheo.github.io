@@ -79,6 +79,35 @@ gtag('js', new Date());
 gtag('config', '357254636', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -124,13 +153,17 @@ gtag('config', '357254636', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
   <ul>
   <li><a href="#bio" id="toc-bio" class="nav-link active" data-scroll-target="#bio">Bio</a></li>
+  <li><a href="#program-of-research" id="toc-program-of-research" class="nav-link" data-scroll-target="#program-of-research">Program of Research</a></li>
   <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a></li>
+  <li><a href="#selected-awards" id="toc-selected-awards" class="nav-link" data-scroll-target="#selected-awards">Selected Awards</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <div class="quarto-about-trestles">
   <div class="about-entity">
+    <img src="img/profile.jpg" class="about-image
+  rounded " style="width: 20em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Ihnwhi Heo</h1>
@@ -139,19 +172,8 @@ gtag('config', '357254636', { 'anonymize_ip': true});
   </div>
 </header>
     <div class="about-links">
-  <a href="/files/Ihnwhi Heo CV Current.pdf" class="about-link" rel="" target="">
+  <a href="/Ihnwhi Heo CV Current.pdf" class="about-link" rel="" target="">
      <span class="about-link-text">CV</span>
-  </a>
-  <a href="https://www.linkedin.com/in/ihnwhi-heo/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text"></span>
-  </a>
-  <a href="https://twitter.com/epichrisis" class="about-link" rel="" target="">
-     <span class="about-link-text">𝕏</span>
-  </a>
-  <a href="https://github.com/IhnwhiHeo" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text"></span>
   </a>
   <a href="https://scholar.google.com/citations?user=r365MK4AAAAJ&amp;hl=en" class="about-link" rel="" target="">
      <span class="about-link-text"><i class="ai  ai-google-scholar" aria-label="google-scholar"></i></span>
@@ -159,8 +181,9 @@ gtag('config', '357254636', { 'anonymize_ip': true});
   <a href="mailto:ihnwhi.heo@gmail.com" class="about-link" rel="" target="">
      <span class="about-link-text"><i class="fa-solid fa-envelope" aria-label="envelope"></i></span>
   </a>
-  <a href="https://orcid.org/0000-0002-6123-3639" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="ai  ai-orcid" aria-label="orcid"></i></span>
+  <a href="https://github.com/IhnwhiHeo" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text"></span>
   </a>
 </div>
   </div>
@@ -168,9 +191,22 @@ gtag('config', '357254636', { 'anonymize_ip': true});
 
 <section id="bio" class="level3">
 <h3 data-anchor-id="bio">Bio</h3>
-<p><a href="Ihnwhi Heo CV Current.pdf">my CV</a></p>
 <p>I am a Ph.D.&nbsp;candidate in <a href="https://psychology.ucmerced.edu/graduate-program/areas-focus/quantitative">Quantitative Methods, Measurement, and Statistics</a> at the University of California, Merced. I firmly believe that scientific discovery is a dynamic process driven by the continuous updating of scientific knowledge through experiential learning. This perspective aligns closely with the philosophical paradigm of Bayesian inference.</p>
-<p>My program of research centers on the development, evaluation, and application of Bayesian methodology for theory construction and statistical modeling in the field of psychological sciences. My expertise lies in Bayesian inference, structural equation modeling, mixture modeling, and longitudinal data analysis. My projects address methodological issues surrounding model estimation, model evaluation, hypothesis testing, and missing data. I have authored or co-authored articles in methodological journals, including Structural Equation Modeling: A Multidisciplinary Journal, Applied Psychological Measurement, Psychometrika, and Bayesian Analysis. In addition, I am dedicated to the dissemination of quantitative methods to applied researchers and have published tutorials on statistical software such as R, JASP, and jamovi.</p>
+</section>
+<section id="program-of-research" class="level3">
+<h3 data-anchor-id="program-of-research">Program of Research</h3>
+<section id="bayesian-methodology-for-theory-construction-and-statistical-modeling" class="level4">
+<h4 data-anchor-id="bayesian-methodology-for-theory-construction-and-statistical-modeling">(1) Bayesian methodology for theory construction and statistical modeling</h4>
+<p>I develop and evaluate Bayesian methods (e.g., model averaging, model evaluation, regularization, estimation, and hypothesis testing) for latent variable models, including structural equation models, latent (e.g., piecewise) growth models, and mixture models.</p>
+</section>
+<section id="practical-and-computational-approaches-to-missing-data-science" class="level4">
+<h4 data-anchor-id="practical-and-computational-approaches-to-missing-data-science">(2) Practical and computational approaches to missing data science</h4>
+<p>I examine the consequences of missing data for model estimation and evaluation and develop multiple imputation techniques using modern data science techniques, including machine and deep learning algorithms for latent variable models.</p>
+</section>
+<section id="application-dissemination-and-collaborative-use-of-quantitative-methods" class="level4">
+<h4 data-anchor-id="application-dissemination-and-collaborative-use-of-quantitative-methods">(3) Application, dissemination, and collaborative use of quantitative methods</h4>
+<p>I communicate and collaborate with applied researchers by writing tutorial papers for educational and school psychologists, partnering with social and health psychologists to investigate stress and mental health mechanisms, and proposing new psychometric frameworks for longitudinal or categorical data. I have also authored multiple statistical tutorials for <span class="math inline">\(\texttt{R}\)</span>, <span class="math inline">\(\texttt{JASP}\)</span>, and <span class="math inline">\(\texttt{jamovi}\)</span> aimed at applied researchers.</p>
+</section>
 </section>
 <section id="education" class="level3">
 <h3 data-anchor-id="education">Education</h3>
@@ -185,6 +221,21 @@ gtag('config', '357254636', { 'anonymize_ip': true});
 <section id="sungkyunkwan-university-south-korea" class="level4">
 <h4 data-anchor-id="sungkyunkwan-university-south-korea">Sungkyunkwan University, South Korea</h4>
 <p>B.A. in Psychology, 2019</p>
+</section>
+</section>
+<section id="selected-awards" class="level3">
+<h3 data-anchor-id="selected-awards">Selected Awards</h3>
+<section id="smep-dissertation-research-grant" class="level4">
+<h4 data-anchor-id="smep-dissertation-research-grant">SMEP Dissertation Research Grant</h4>
+<p>Society of Multivariate Experimental Psychology, 2025</p>
+</section>
+<section id="nomination-for-open-science-award" class="level4">
+<h4 data-anchor-id="nomination-for-open-science-award">Nomination for Open Science Award</h4>
+<p>Open Science Community Utrecht, 2024</p>
+</section>
+<section id="graduate-student-opportunity-program-fellowship" class="level4">
+<h4 data-anchor-id="graduate-student-opportunity-program-fellowship">Graduate Student Opportunity Program Fellowship</h4>
+<p>University of California, Merced, 2022–2023</p>
 
 
 </section>

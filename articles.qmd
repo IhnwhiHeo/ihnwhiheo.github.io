@@ -5,33 +5,33 @@ title: "Articles"
 ## 2025
 
 - Liu, H., **Heo, I.**, Depaoli, S., \& Ivanov, A. (2025). Parameter recovery for misspecified latent mediation models in the Bayesian framework. *Structural Equation Modeling: A Multidisciplinary Journal*. Advance online publication. [https://doi.org/10.1080/10705511.2025.2475490](https://doi.org/10.1080/10705511.2025.2475490) 
-  - [Link to PDF](files/papers/Liu2025_Parameter.pdf)
+  - [PDF](files/papers/Liu2025_Parameter.pdf)
 	
 	
 - **Heo, I.**, Pfadt, J. M., \& Wagenmakers, E.–J. (2025). Contributed discussion of "Sparse Bayesian factor analysis when the number of factors is unknown". *Bayesian Analysis, 20*(1). 295--296. [https://doi.org/10.1214/24-BA1423](https://doi.org/10.1214/24-BA1423)
-  - [Link to PDF](files/papers/Heo2024_Contributed.pdf)
+  - [PDF](files/papers/Heo2024_Contributed.pdf)
 
 
 ## 2024
 
 - **Heo, I.**, Depaoli, S., Jia, F., \& Liu, H. (2024). Bayesian approach to piecewise growth mixture modeling: Issues and applications in school psychology. *Journal of School Psychology, 107*. 101366. [https://doi.org/10.1016/j.jsp.2024.101366](https://doi.org/10.1016/j.jsp.2024.101366) 
-  - [Link to PDF](files/papers/Heo2024_Bayesian.pdf)
+  - [PDF](files/papers/Heo2024_Bayesian.pdf)
 
 
 - **Heo, I.**, Jia, F., \& Depaoli, S. (2024). Performance of model fit and selection indices for Bayesian piecewise growth modeling with missing data. *Structural Equation Modeling: A Multidisciplinary Journal, 31*(3). 455--476. [https://doi.org/10.1080/10705511.2023.2264514](https://doi.org/10.1080/10705511.2023.2264514) 
-  - [Link to PDF](files/papers/Heo2024_Performance.pdf)
+  - [PDF](files/papers/Heo2024_Performance.pdf)
 
 
 ## 2023
 
 - Depaoli, S., Jia, F., \& **Heo, I.** (2023). Detecting model misspecification in Bayesian piecewise growth models. *Structural Equation Modeling: A Multidisciplinary Journal, 30*(4). 574--591. [https://doi.org/10.1080/10705511.2022.2144865](https://doi.org/10.1080/10705511.2022.2144865) 
-  - [Link to PDF](files/papers/Depaoli2023_Detecting.pdf)
+  - [PDF](files/papers/Depaoli2023_Detecting.pdf)
 
 
 - **Heo, I.**, Jia, F., \& Depaoli, S. (2023). Book review of *Longitudinal structural equation modeling with Mplus: A latent state-trait perspective* by Geiser. *Psychometrika, 88*(2), 733--737. [https://doi.org/10.1007/s11336-022-09897-z](https://doi.org/10.1007/s11336-022-09897-z)
-  - [Link to PDF](files/papers/Heo2023_Book.pdf)
+  - [PDF](files/papers/Heo2023_Book.pdf)
 
 
 - Liu, R., **Heo, I.**, Liu, H., Shi, D., \& Jiang, Z. (2023). Applying negative binomial distribution in diagnostic classification models for analyzing count data. *Applied Psychological Measurement, 47*(1), 64--75. [https://www.doi.org/10.1177/01466216221124604](https://www.doi.org/10.1177/01466216221124604)
-  - [Link to PDF](files/papers/Liu2023_Applying.pdf)
+  - [PDF](files/papers/Liu2023_Applying.pdf)
 

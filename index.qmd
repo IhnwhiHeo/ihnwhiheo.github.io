@@ -4,28 +4,39 @@ about:
     template: trestles
     links:
         - text: CV
-          url: "files/Ihnwhi Heo CV Current.pdf"
-        - icon: linkedin
-          url: https://www.linkedin.com/in/ihnwhi-heo/
-        - text: 𝕏
-          url: https://twitter.com/epichrisis
-        - icon: github
-          url: https://github.com/IhnwhiHeo
+          url: "Ihnwhi Heo CV Current.pdf"
         - text: "{{< ai google-scholar >}}"
           url: https://scholar.google.com/citations?user=r365MK4AAAAJ&hl=en
         - text: "{{< fa envelope >}}"
           url: mailto:ihnwhi.heo@gmail.com
-        - text: "{{< ai orcid >}}"
-          url: https://orcid.org/0000-0002-6123-3639
+        - icon: github
+          url: https://github.com/IhnwhiHeo
+#        - icon: linkedin
+#          url: https://www.linkedin.com/in/ihnwhi-heo/
+#        - text: 𝕏
+#          url: https://twitter.com/epichrisis
+#        - text: "{{< ai orcid >}}"
+#          url: https://orcid.org/0000-0002-6123-3639
+image: img/profile.jpg
 ---
 
 ### Bio
 
-[my CV](Ihnwhi Heo CV Current.pdf)
-
 I am a Ph.D. candidate in [Quantitative Methods, Measurement, and Statistics](https://psychology.ucmerced.edu/graduate-program/areas-focus/quantitative) at the University of California, Merced. I firmly believe that scientific discovery is a dynamic process driven by the continuous updating of scientific knowledge through experiential learning. This perspective aligns closely with the philosophical paradigm of Bayesian inference. 
 
-My program of research centers on the development, evaluation, and application of Bayesian methodology for theory construction and statistical modeling in the field of psychological sciences. My expertise lies in Bayesian inference, structural equation modeling, mixture modeling, and longitudinal data analysis. My projects address methodological issues surrounding model estimation, model evaluation, hypothesis testing, and missing data. I have authored or co-authored articles in methodological journals, including Structural Equation Modeling: A Multidisciplinary Journal, Applied Psychological Measurement, Psychometrika, and Bayesian Analysis. In addition, I am dedicated to the dissemination of quantitative methods to applied researchers and have published tutorials on statistical software such as R, JASP, and jamovi.
+### Program of Research
+
+#### (1) Bayesian methodology for theory construction and statistical modeling
+
+I develop and evaluate Bayesian methods (e.g., model averaging, model evaluation, regularization, estimation, and hypothesis testing) for latent variable models, including structural equation models, latent (e.g., piecewise) growth models, and mixture models.
+
+#### (2) Practical and computational approaches to missing data science
+
+I examine the consequences of missing data for model estimation and evaluation and develop multiple imputation techniques using modern data science techniques, including machine and deep learning algorithms for latent variable models.
+
+#### (3) Application, dissemination, and collaborative use of quantitative methods
+
+I communicate and collaborate with applied researchers by writing tutorial papers for educational and school psychologists, partnering with social and health psychologists to investigate stress and mental health mechanisms, and proposing new psychometric frameworks for longitudinal or categorical data. I have also authored multiple statistical tutorials for $\texttt{R}$, $\texttt{JASP}$, and $\texttt{jamovi}$ aimed at applied researchers.
 
 ### Education
 
@@ -37,3 +48,18 @@ M.Sc. in Methodology and Statistics, 2021
 
 #### Sungkyunkwan University, South Korea
 B.A. in Psychology, 2019
+
+### Selected Awards
+
+#### SMEP Dissertation Research Grant
+
+Society of Multivariate Experimental Psychology, 2025
+
+#### Nomination for Open Science Award
+
+Open Science Community Utrecht, 2024
+
+#### Graduate Student Opportunity Program Fellowship
+
+University of California, Merced, 2022--2023
+
