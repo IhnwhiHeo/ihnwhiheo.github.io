@@ -22,7 +22,7 @@ format:
     theme: simplex
 #      light: simplex
 #      dark: sketchy
-    css: styles.css
+    css: styles_navy.css
     toc: true
     page-layout: full
 
