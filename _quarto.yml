@@ -13,7 +13,7 @@ website:
         text: Profile
       - articles.qmd
   google-analytics: 
-    tracking-id: "357254636" # "G-FHK2YX1CJQ"
+    tracking-id: "G-FHK2YX1CJQ" # "357254636" 
   page-footer:
     center: "&copy; Ihnwhi Heo, 2025"
 
