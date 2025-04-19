@@ -4,15 +4,16 @@ project:
 
 website:
   title: Ihnwhi's Website
+  description: "Ph.D. in Quantitative Methods, Measurement, and Statistics"
   favicon: img/iheofavi.png
   navbar:
 #    logo: img/logo_heo.png
     left:
       - href: index.qmd
-        text: Bio
+        text: Profile
       - articles.qmd
   google-analytics: 
-    tracking-id: "G-FHK2YX1CJQ" # 357254636
+    tracking-id: "357254636" # "G-FHK2YX1CJQ"
   page-footer:
     center: "&copy; Ihnwhi Heo, 2025"
 
