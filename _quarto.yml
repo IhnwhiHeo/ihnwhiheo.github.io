@@ -6,21 +6,21 @@ website:
   title: Ihnwhi's Website
   favicon: img/iheofavi.png
   navbar:
-    logo: img/iheoma.png
+#    logo: img/logo_heo.png
     left:
       - href: index.qmd
         text: Bio
       - articles.qmd
-  google-analytics: "357254636"
+  google-analytics: 
+    tracking-id: "G-FHK2YX1CJQ" # 357254636
   page-footer:
-    center: |
-      &copy; Ihnwhi Heo, 2025
-  
+    center: "&copy; Ihnwhi Heo, 2025"
+
 format:
   html:
     theme: simplex
 #      light: simplex
-#      dark: darkly
+#      dark: sketchy
     css: styles.css
     toc: true
     page-layout: full
