@@ -37,4 +37,5 @@ This page provides a list of peer-reviewed journal articles I have (co)authored 
 
 - Liu, R., **Heo, I.**, Liu, H., Shi, D., \& Jiang, Z. (2023). Applying negative binomial distribution in diagnostic classification models for analyzing count data. *Applied Psychological Measurement, 47*(1), 64--75. [https://www.doi.org/10.1177/01466216221124604](https://www.doi.org/10.1177/01466216221124604)
   - [PDF](files/papers/Liu2023_Applying.pdf)
+  - [Code](files/papers/Liu2023_Applying_Code.pdf)
 
