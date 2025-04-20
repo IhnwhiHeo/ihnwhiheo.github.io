@@ -21,10 +21,12 @@ format:
   html:
     theme: simplex
 #      light: simplex
-#      dark: sketchy
+#      dark: darkly
     css: styles_navy.css
     toc: true
     page-layout: full
 
+# mainfont: CHOOSEFONT
 
+# backgroundcolor: white
 
