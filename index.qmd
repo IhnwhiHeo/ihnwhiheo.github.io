@@ -26,6 +26,17 @@ image: img/profile.jpg
 
 I am a Ph.D. candidate in [Quantitative Methods, Measurement, and Statistics](https://psychology.ucmerced.edu/graduate-program/areas-focus/quantitative) at the University of California, Merced. I firmly believe that scientific discovery is a dynamic process, driven by the continuous updating of scientific knowledge through experiential learning. This perspective closely aligns with the philosophical paradigm of Bayesian inference. For additional details on my academic training and experience, please see my [curriculum vitae](Ihnwhi Heo CV Current.pdf).
 
+### Education
+
+#### University of California, Merced, USA
+Ph.D. in Quantitative Methods, Measurement, and Statistics, 2026 (Expected)
+
+#### Utrecht University, The Netherlands
+M.Sc. in Methodology and Statistics, 2021
+
+#### Sungkyunkwan University, South Korea
+B.A. in Psychology, 2019
+
 ### Program of Research
 
 #### (1) Bayesian methodology for theory construction and statistical modeling
@@ -39,17 +50,6 @@ I examine the consequences of missing data for statistical modeling and develop 
 #### (3) Application, dissemination, and collaborative research in quantitative methods
 
 I communicate and collaborate with methodological and applied researchers by writing tutorial or applied papers and proposing new psychometric or modeling frameworks for longitudinal, categorical, or social network data. I have also authored multiple statistics tutorials for $\texttt{R}$, $\texttt{JASP}$, and $\texttt{jamovi}$ aimed at applied researchers.
-
-### Education
-
-#### University of California, Merced, USA
-Ph.D. in Quantitative Methods, Measurement, and Statistics, 2026 (Expected)
-
-#### Utrecht University, The Netherlands
-M.Sc. in Methodology and Statistics, 2021
-
-#### Sungkyunkwan University, South Korea
-B.A. in Psychology, 2019
 
 ### Selected Awards
 

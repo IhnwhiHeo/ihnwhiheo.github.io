@@ -42,3 +42,13 @@ nav#TOC .nav-link:hover {
   color: #3a5d8d !important;
 }
 
+/* === Remove blue background from hamburger toggle === */
+.navbar-toggler,
+.navbar-toggler:hover,
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler[aria-expanded="true"] {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+}
