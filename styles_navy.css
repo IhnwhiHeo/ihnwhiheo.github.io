@@ -75,15 +75,18 @@ nav#TOC .nav-link:hover {
   left: 0;
   bottom: 10px;
   height: 2px;
-  width: 0%;
+  width: 100%;                          /* ← 전체 길이로 고정 */
   background-color: #1c3f95;
-  transition: width 0.3s ease-in-out;
+  transform: scaleX(0);                 /* ← 처음엔 안 보이게 */
+  transform-origin: center;             /* ← 중심 기준으로 확대! */
+  transition: transform 0.3s ease-in-out;
 }
 
 .navbar-nav .nav-link:hover::after,
 .navbar-nav .nav-link:focus::after {
-  width: 100%;
+  transform: scaleX(1);                 /* ← hover 시 가득 퍼지게 */
 }
+
 
 /* 현재 페이지 (active) 탭 */
 .navbar-nav .nav-link.active {
@@ -95,3 +98,5 @@ nav#TOC .nav-link:hover {
   width: 100%;
   background-color: #1c3f95;
 }
+
+
