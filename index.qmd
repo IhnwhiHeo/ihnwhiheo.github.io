@@ -24,11 +24,11 @@ image: img/profile.jpg
 
 ### Bio
 
-I am a Ph.D. candidate in [Quantitative Methods, Measurement, and Statistics](https://psychology.ucmerced.edu/graduate-program/areas-focus/quantitative) at the University of California, Merced. I firmly believe that scientific discovery is a dynamic process, driven by the continuous updating of scientific knowledge through experiential learning. This perspective closely aligns with the philosophical paradigm of Bayesian inference. 
+I am a Ph.D. candidate in [Quantitative Methods, Measurement, and Statistics](https://psychology.ucmerced.edu/graduate-program/areas-focus/quantitative) at the University of California, Merced. I firmly believe that scientific discovery is a dynamic process, driven by the continuous updating of scientific knowledge through experiential learning. This perspective closely aligns with the philosophical paradigm of Bayesian inference.
 
 Motivated by this view, my research aims to advance flexible modeling approaches for complex data in psychology and, more broadly, in the social and behavioral sciences. As detailed in the [Program of Research](#program-of-research), I specialize in Bayesian methods, missing data techniques, and latent variable modeling.
 
-For additional details on my academic training and experience, please see my [curriculum vitae](Ihnwhi Heo CV Current.pdf). A complete list of my refereed journal publications related to these research areas can be found on the [Articles](articles.qmd) page.
+A complete list of my refereed journal publications related to these research areas can be found on the [Articles](articles.qmd) page. For additional details on my academic training and experience, please see my [curriculum vitae](Ihnwhi Heo CV Current.pdf).
 
 
 ### Education
