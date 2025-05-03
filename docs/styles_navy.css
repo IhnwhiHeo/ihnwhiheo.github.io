@@ -11,7 +11,7 @@ a:focus {
   text-decoration: underline;
 }
 
-/* === Buttons === */
+/* === Buttons === 
 .btn:hover,
 .btn:focus,
 .btn:active,
@@ -20,7 +20,7 @@ button:focus {
   color: white !important;
   background-color: #1c3f95 !important;
   border-color: #1c3f95 !important;
-}
+}*/
 
 .btn-outline-dark:hover,
 .btn-outline-primary:hover {
@@ -98,5 +98,4 @@ nav#TOC .nav-link:hover {
   width: 100%;
   background-color: #1c3f95;
 }
-
 
