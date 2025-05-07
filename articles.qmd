@@ -4,6 +4,10 @@ title: "Articles"
 
 This page provides a list of peer-reviewed journal articles I have (co)authored in both methodological and applied journals. For potential collaborations or to discuss research ideas, please reach out to me via email.
 
+## In press
+
+- Liu, H., **Heo, I.**, Ivanov, A., \& Depaoli, S. (in press). Model assumption violations in Bayesian latent mediation analysis: An exploration of Bayesian SEM fit indices and PPP. *Structural Equation Modeling: A Multidisciplinary Journal*.
+
 ## 2025
 
 - Liu, H., **Heo, I.**, Depaoli, S., \& Ivanov, A. (2025). Parameter recovery for misspecified latent mediation models in the Bayesian framework. *Structural Equation Modeling: A Multidisciplinary Journal*. Advance online publication. [https://doi.org/10.1080/10705511.2025.2475490](https://doi.org/10.1080/10705511.2025.2475490) 
