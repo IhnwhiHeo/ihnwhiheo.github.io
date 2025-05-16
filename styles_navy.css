@@ -102,12 +102,12 @@ nav#TOC .nav-link:hover {
 
 
 
-/* 리스트의 최상위 항목(논문)에는 간격 주기 */
-ul > li {
+/* 본문 내 리스트에만 간격 적용 */
+.content ul > li {
   margin-bottom: 0.8em;
 }
 
-/* 서브 항목 (예: PDF, OSF) 간에는 간격 없애기 */
-ul li ul li {
+/* 본문 내 서브 리스트는 간격 제거 */
+.content ul li ul li {
   margin-bottom: 0;
 }
