@@ -1,0 +1,14 @@
+---
+title: "Talks"
+---
+
+
+This page provides a selection of peer-reviewed conference presentations I have delivered as the main presenter. For invitations to speak at conferences or your institution, please feel free to contact me via email.
+
+
+## Association for Psychological Science
+
+- Heo, I., Jia, F., \& Depaoli, S. (2025, May 22–25). *When will change: A nuanced understanding of turning points through Bayesian piecewise growth models* [Flash talk]. 37th Annual Convention of the Association for Psychological Science, Washington, DC, USA.
+  - [PDF](files/slides/2025 APS_I.Heo.pdf)
+
+
