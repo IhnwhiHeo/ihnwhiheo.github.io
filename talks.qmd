@@ -8,7 +8,7 @@ This page provides a selection of peer-reviewed conference presentations I have 
 
 ## Association for Psychological Science
 
-- Heo, I., Jia, F., \& Depaoli, S. (2025, May 22–25). *When will change: A nuanced understanding of turning points through Bayesian piecewise growth models* [Flash talk]. 37th Annual Convention of the Association for Psychological Science, Washington, DC, USA.
+- **Heo, I.**, Jia, F., \& Depaoli, S. (2025, May 22–25). *When will change: A nuanced understanding of turning points through Bayesian piecewise growth models* [Flash talk]. 37th Annual Convention of the Association for Psychological Science, Washington, DC, USA.
   - [PDF](files/slides/2025 APS_I.Heo.pdf)
 
 
