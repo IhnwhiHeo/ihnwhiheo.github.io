@@ -12,7 +12,7 @@ website:
       - href: index.qmd
         text: Profile
       - articles.qmd
-      - talks.qmd
+#      - talks.qmd
   google-analytics: 
     tracking-id: "G-FHK2YX1CJQ" # "357254636" 
   page-footer:
