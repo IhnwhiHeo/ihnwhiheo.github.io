@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: Ihnwhi's Website
+  title: Ihnwhi Heo
   description: "Ph.D. in Quantitative Methods, Measurement, and Statistics"
   favicon: img/iheofavi.png
   navbar:
