@@ -8,11 +8,11 @@ This page provides a list of peer-reviewed journal articles I have (co)authored 
 
 ## 2025
 
-- **Heo, I.**, Jia, F., \& Depaoli, S. (in press). Recovering knot placements in Bayesian piecewise growth models with missing data. *Behavior Research Methods, 57*(7). 1--27. [https://doi.org/10.3758/s13428-025-02716-0](https://doi.org/10.3758/s13428-025-02716-0)
+- **Heo, I.**, Jia, F., \& Depaoli, S. (2025). Recovering knot placements in Bayesian piecewise growth models with missing data. *Behavior Research Methods, 57*(7). 1--27. [https://doi.org/10.3758/s13428-025-02716-0](https://doi.org/10.3758/s13428-025-02716-0)
   - [PDF](files/papers/Heo2025_Recovering.pdf)
   - [OSF](https://osf.io/j46bf/)
 
-- Liu, H., **Heo, I.**, Ivanov, A., \& Depaoli, S. (in press). Model assumption violations in Bayesian latent mediation analysis: An exploration of Bayesian SEM fit indices and PPP. *Structural Equation Modeling: A Multidisciplinary Journal*. Advance online publication. [https://doi.org/10.1080/10705511.2025.2503789](https://doi.org/10.1080/10705511.2025.2503789)
+- Liu, H., **Heo, I.**, Ivanov, A., \& Depaoli, S. (2025). Model assumption violations in Bayesian latent mediation analysis: An exploration of Bayesian SEM fit indices and PPP. *Structural Equation Modeling: A Multidisciplinary Journal*. Advance online publication. [https://doi.org/10.1080/10705511.2025.2503789](https://doi.org/10.1080/10705511.2025.2503789)
   - [PDF](files/papers/Liu2025_Model.pdf)
 
 - Liu, H., **Heo, I.**, Depaoli, S., \& Ivanov, A. (2025). Parameter recovery for misspecified latent mediation models in the Bayesian framework. *Structural Equation Modeling: A Multidisciplinary Journal*. Advance online publication. [https://doi.org/10.1080/10705511.2025.2475490](https://doi.org/10.1080/10705511.2025.2475490) 
