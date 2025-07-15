@@ -7,7 +7,7 @@ This page provides a list of peer-reviewed journal articles I have (co)authored 
 
 ## 2025
 
-- **Heo, I.**, Liu, R., Liu, H., Depaoli, S., \& Jia, F. (in press). A study of latent state-trait theory framework in piecewise growth models. *Applied Psychological Measurement*. [https://doi.org/10.1177/01466216251360565](https://doi.org/10.1177/01466216251360565)
+- **Heo, I.**, Liu, R., Liu, H., Depaoli, S., \& Jia, F. (2025). A study of latent state-trait theory framework in piecewise growth models. *Applied Psychological Measurement*. Advance online publication. [https://doi.org/10.1177/01466216251360565](https://doi.org/10.1177/01466216251360565)
   - [PDF](files/papers/Heo2025_Study.pdf)
   - [OSF](https://osf.io/dmtus/)
 
