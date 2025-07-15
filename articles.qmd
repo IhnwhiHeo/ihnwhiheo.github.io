@@ -5,13 +5,11 @@ title: "Articles"
 
 This page provides a list of peer-reviewed journal articles I have (co)authored in both methodological and applied journals. For potential collaborations or to discuss research ideas, please reach out to me via [email](mailto:ihnwhi.heo@gmail.com).
 
-## In press
+## 2025
 
 - **Heo, I.**, Liu, R., Liu, H., Depaoli, S., \& Jia, F. (in press). A study of latent state-trait theory framework in piecewise growth models. *Applied Psychological Measurement*. [https://doi.org/10.1177/01466216251360565](https://doi.org/10.1177/01466216251360565)
-  - PDF is forthcoming.
+  - [PDF](files/papers/Heo2025_Study.pdf)
   - [OSF](https://osf.io/dmtus/)
-
-## 2025
 
 - **Heo, I.**, Jia, F., \& Depaoli, S. (2025). Recovering knot placements in Bayesian piecewise growth models with missing data. *Behavior Research Methods, 57*(7). 1--27. [https://doi.org/10.3758/s13428-025-02716-0](https://doi.org/10.3758/s13428-025-02716-0)
   - [PDF](files/papers/Heo2025_Recovering.pdf)
