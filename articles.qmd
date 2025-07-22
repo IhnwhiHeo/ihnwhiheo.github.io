@@ -18,7 +18,7 @@ This page provides a list of peer-reviewed journal articles I have (co)authored 
 - Liu, H., **Heo, I.**, Ivanov, A., \& Depaoli, S. (2025). Model assumption violations in Bayesian latent mediation analysis: An exploration of Bayesian SEM fit indices and PPP. *Structural Equation Modeling: A Multidisciplinary Journal*. Advance online publication. [https://doi.org/10.1080/10705511.2025.2503789](https://doi.org/10.1080/10705511.2025.2503789)
   - [PDF](files/papers/Liu2025_Model.pdf)
 
-- Liu, H., **Heo, I.**, Depaoli, S., \& Ivanov, A. (2025). Parameter recovery for misspecified latent mediation models in the Bayesian framework. *Structural Equation Modeling: A Multidisciplinary Journal*. Advance online publication. [https://doi.org/10.1080/10705511.2025.2475490](https://doi.org/10.1080/10705511.2025.2475490) 
+- Liu, H., **Heo, I.**, Depaoli, S., \& Ivanov, A. (2025). Parameter recovery for misspecified latent mediation models in the Bayesian framework. *Structural Equation Modeling: A Multidisciplinary Journal, 32*(4). 618--637. [https://doi.org/10.1080/10705511.2025.2475490](https://doi.org/10.1080/10705511.2025.2475490) 
   - [PDF](files/papers/Liu2025_Parameter.pdf)
 	
 - **Heo, I.**, Pfadt, J. M., \& Wagenmakers, E.–J. (2025). Contributed discussion of "Sparse Bayesian factor analysis when the number of factors is unknown". *Bayesian Analysis, 20*(1). 295--296. [https://doi.org/10.1214/24-BA1423](https://doi.org/10.1214/24-BA1423)
