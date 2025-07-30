@@ -3,7 +3,13 @@ title: "Articles"
 ---
 
 
-This page provides a list of peer-reviewed journal articles I have (co)authored in both methodological and applied journals. For potential collaborations or to discuss research ideas, please reach out to me via [email](mailto:ihnwhi.heo@gmail.com).
+This page provides a list of peer-reviewed journal articles I have authored or coauthored in both methodological and applied journals. For potential collaborations or to discuss research ideas, please reach out to me via [email](mailto:ihnwhi.heo@gmail.com).
+
+## In Press
+
+- **Heo, I.**, Simons, J. W., \& Liu, H. (in press). A tutorial on Bayesian model averaging for exponential random graph models. *British Journal of Mathematical and Statistical Psychology*.
+  - PDF is forthcoming.
+  - [OSF](https://osf.io/g9eq4/)
 
 ## 2025
 
