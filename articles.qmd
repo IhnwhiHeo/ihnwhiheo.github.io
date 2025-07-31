@@ -7,7 +7,7 @@ This page provides a list of peer-reviewed journal articles I have authored or c
 
 ## In Press
 
-- **Heo, I.**, Simons, J. W., \& Liu, H. (in press). A tutorial on Bayesian model averaging for exponential random graph models. *British Journal of Mathematical and Statistical Psychology*.
+- **Heo, I.**, Simons, J. W., \& Liu, H. (in press). A tutorial on Bayesian model averaging for exponential random graph models. *British Journal of Mathematical and Statistical Psychology*. [https://doi.org/10.1111/bmsp.70007](https://doi.org/10.1111/bmsp.70007)
   - PDF is forthcoming.
   - [OSF](https://osf.io/g9eq4/)
 
