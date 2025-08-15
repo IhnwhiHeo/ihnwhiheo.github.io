@@ -7,7 +7,7 @@ This page provides a list of peer-reviewed journal articles I have authored or c
 
 ## In Press
 
-- **Heo, I.**, Simons, J. W., \& Liu, H. (in press). A tutorial on Bayesian model averaging for exponential random graph models. *British Journal of Mathematical and Statistical Psychology*. [https://doi.org/10.1111/bmsp.70007](https://doi.org/10.1111/bmsp.70007)
+- **Heo, I.**, Simons, J.-W., \& Liu, H. (in press). A tutorial on Bayesian model averaging for exponential random graph models. *British Journal of Mathematical and Statistical Psychology*. [https://doi.org/10.1111/bmsp.70007](https://doi.org/10.1111/bmsp.70007)
   - PDF is forthcoming.
   - [OSF](https://osf.io/g9eq4/)
 
@@ -27,7 +27,7 @@ This page provides a list of peer-reviewed journal articles I have authored or c
 - Liu, H., **Heo, I.**, Depaoli, S., \& Ivanov, A. (2025). Parameter recovery for misspecified latent mediation models in the Bayesian framework. *Structural Equation Modeling: A Multidisciplinary Journal, 32*(4). 618--637. [https://doi.org/10.1080/10705511.2025.2475490](https://doi.org/10.1080/10705511.2025.2475490) 
   - [PDF](files/papers/Liu2025_Parameter.pdf)
 	
-- **Heo, I.**, Pfadt, J. M., \& Wagenmakers, E.–J. (2025). Contributed discussion of "Sparse Bayesian factor analysis when the number of factors is unknown". *Bayesian Analysis, 20*(1). 295--296. [https://doi.org/10.1214/24-BA1423](https://doi.org/10.1214/24-BA1423)
+- **Heo, I.**, Pfadt, J. M., \& Wagenmakers, E.-J. (2025). Contributed discussion of "Sparse Bayesian factor analysis when the number of factors is unknown". *Bayesian Analysis, 20*(1). 295--296. [https://doi.org/10.1214/24-BA1423](https://doi.org/10.1214/24-BA1423)
   - [PDF](files/papers/Heo2024_Contributed.pdf)
 
 
