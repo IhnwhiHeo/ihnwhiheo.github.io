@@ -2,16 +2,14 @@
 title: "Articles"
 ---
 
-
 This page provides a list of peer-reviewed journal articles I have authored or coauthored in both methodological and applied journals. For potential collaborations or to discuss research ideas, please reach out to me via [email](mailto:ihnwhi.heo@gmail.com).
 
-## In Press
-
-- **Heo, I.**, Simons, J.-W., \& Liu, H. (in press). A tutorial on Bayesian model averaging for exponential random graph models. *British Journal of Mathematical and Statistical Psychology*. [https://doi.org/10.1111/bmsp.70007](https://doi.org/10.1111/bmsp.70007)
-  - PDF is forthcoming.
-  - [OSF](https://osf.io/g9eq4/)
 
 ## 2025
+
+- **Heo, I.**, Simons, J.-W., \& Liu, H. (2025). A tutorial on Bayesian model averaging for exponential random graph models. *British Journal of Mathematical and Statistical Psychology*. Advance online publication. [https://doi.org/10.1111/bmsp.70007](https://doi.org/10.1111/bmsp.70007)
+  - [PDF](files/papers/Heo2025_Tutorial.pdf)
+  - [OSF](https://osf.io/g9eq4/)
 
 - **Heo, I.**, Liu, R., Liu, H., Depaoli, S., \& Jia, F. (2025). A study of latent state-trait theory framework in piecewise growth models. *Applied Psychological Measurement*. Advance online publication. [https://doi.org/10.1177/01466216251360565](https://doi.org/10.1177/01466216251360565)
   - [PDF](files/papers/Heo2025_Study.pdf)
