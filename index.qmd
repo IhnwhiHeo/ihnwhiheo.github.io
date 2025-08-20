@@ -13,12 +13,12 @@ about:
           url: mailto:ihnwhi.heo@gmail.com
         - icon: github
           url: https://github.com/IhnwhiHeo
-#        - icon: linkedin
-#          url: https://www.linkedin.com/in/ihnwhi-heo
+        - icon: linkedin
+          url: https://www.linkedin.com/in/ihnwhi-heo
 #        - text: 𝕏
 #          url: https://twitter.com/epichrisis
-#        - text: "{{< ai orcid >}}"
-#          url: https://orcid.org/0000-0002-6123-3639
+        - text: "{{< ai orcid >}}"
+          url: https://orcid.org/0000-0002-6123-3639
 image: img/profile.jpg
 ---
 
