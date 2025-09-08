@@ -47,17 +47,17 @@ B.A. in Psychology (Highest Honors), 2019
 
 My program of research can be detailed with three lines.
 
-#### (1) Bayesian Data Science for Statistical Modeling and Theory Construction
+#### (1) Bayesian Data Science for Statistical Modeling
 
-I develop and evaluate Bayesian methods for structural equation models, latent growth models, and mixture models to advance theory construction and statistical modeling. 
+I advance Bayesian methodology for latent variable models, including structural equation models, growth curve models, and mixture models. My research examines Bayesian estimation and evaluation of these models and integrates computational methods to extend the latent variable modeling framework through Bayesian regularization and Bayesian model averaging.
 
-#### (2) Missing Data Science for Practical Applications and Valid Inference
+#### (2) Missing Data Science for Practical Applications
 
-I examine the impact of missing data on statistical inference and develop imputation techniques using computational and machine learning approaches for handling missing data
+In social and behavioral research, incomplete data are the norm rather than the exception. My work in this research program has two goals: first, to understand how missingness affects parameter estimation and model evaluation; and second, to develop and evaluate computational and machine learning methods that “fill in” missing values in ways that support practical applications in real research contexts.
 
 #### (3) Collaborative Data Science for Interdisciplinary Impact
 
-I translate methodological innovations into practice by applying them to empirical data and by disseminating them across academic communities, guided by the philosophy of open science.
+I collaborate with applied and methodological researchers across disciplines to translate methodological innovations into practice and to maximize interdisciplinary impact. These collaborations create synergies that generate novel applications and foster unique contributions at the intersection of disciplines.
 
 
 ### Selected Awards
