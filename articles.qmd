@@ -7,6 +7,7 @@ This page provides a list of peer-reviewed journal articles I have authored or c
 ## In Press
 
 - Depaoli, S., **Heo, I.**, Jauregui, M., Liu, H., \& Jia, F. (in press). A comprehensive evaluation of model selection indices for class enumeration in Bayesian latent growth mixture models. *Structural Equation Modeling: A Multidisciplinary Journal*.
+  - PDF is forthcoming.
   - [OSF](https://osf.io/2resf/)
 
 ## 2025
