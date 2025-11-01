@@ -4,6 +4,16 @@ title: "Articles"
 
 This page provides a list of peer-reviewed journal articles I have authored or coauthored in both methodological and applied journals. For potential collaborations or to discuss research ideas, please reach out to me via [email](mailto:ihnwhi.heo@gmail.com).
 
+## Preprints & Under Review
+
+- Pfadt, J. M., Bartoš, F., Godmann, H. R., Waaijers, M., Groot, L., **Heo, I.**, Mensink, L., Nak, J., de Ruiter, J. P., Sarafoglou, A., Siepe, B., Arena, G., Akrong, E., Aust, F., van den Bergh, D., Brenner, W., Doekemeijer, R., Donzallaz, M. C., van Doorn, J., Echevarria, N. O., Finneman, A., Geller, G., Hato, T., Koskinen, E., Krijgsman, B., Kulbe, L., Lüken, M., Marsman, M., Ott, V. L., Pawel, S., Piestrak, O., de Ron, J., Sekulovski, N., Serry, M., Stefanów, A., Stevenson, N., Sadowski, B., Sopuch, M., Vasileiou, A., Visser, I., Völler, M., Wiechert, S., de Wit, K., Wuth, J., \& Wagenmakers, E.-J. (submitted). A methodological metamorphosis: The rapid rise of Bayesian inference and open science practices in psychology.
+  - [Preprint](https://doi.org/10.31234/osf.io/ck3js_v1)
+  
+- Peña, M., **Heo, I.**, Depaoli, S., \& Zawadzki, M. J. (submitted). Identifying screening-level predictors of enrollment in a mobile mindfulness meditation trial: A Bayesian model-averaged logistic regression approach.
+  - [Preprint](https://preprints.jmir.org/preprint/86696)
+
+- Jia, F., **Heo, I.**, Depaoli, S., \& Li, Y. (revise & resubmit). Latent mediation analysis with missing data: A comparison of Bayesian SEM and Monte Carlo–adjusted frequentist approaches.
+
 ## 2025
 
 - Depaoli, S., **Heo, I.**, Jauregui, M., Liu, H., \& Jia, F. (2025). A comprehensive evaluation of model selection indices for class enumeration in Bayesian latent growth mixture models. *Structural Equation Modeling: A Multidisciplinary Journal*. Advance online publication. [https://doi.org/10.1080/10705511.2025.2566135](https://doi.org/10.1080/10705511.2025.2566135)
