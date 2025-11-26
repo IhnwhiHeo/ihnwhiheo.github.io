@@ -16,7 +16,7 @@ This page provides a list of peer-reviewed journal articles and manuscripts curr
 
 ## In Press
 
-- **Heo, I.**, Jia, F., \& Depaoli, S. (in press). Bayesian variable selection via shrinkage priors in growth mixture models [Abstract]. *Multivariate Behavioral Research*.
+- **Heo, I.**, Jia, F., \& Depaoli, S. (in press). Bayesian variable selection via shrinkage priors in growth mixture models. *Multivariate Behavioral Research*. [Abstract]
   - PDF is forthcoming.
 
 ## 2025
