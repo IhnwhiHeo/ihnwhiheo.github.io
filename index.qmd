@@ -28,7 +28,7 @@ I am a Ph.D. candidate in Quantitative Methods, Measurement, and Statistics at t
 
 My overarching research goal is to advance flexible modeling approaches for complex data in the social and behavioral sciences. I specialize in Bayesian inference, latent variable modeling, and missing data. With these specializations, I integrate quantitative, computational, and machine learning approaches to develop, evaluate, and implement innovative statistical methods that expand their applicability across diverse research contexts. More details can be found in the [Program of Research](#program-of-research).
 
-As of December 2025, I have published 13 peer-reviewed journal articles, including 8 as first author, in top-tier methodological and applied journals. A complete list of my refereed journal publications can be found on the [Articles](articles.qmd) page. For additional details on my academic training and experience, please see my [curriculum vitae](Ihnwhi_Heo_CV_Current.pdf).
+As of January 2026, I have published 13 peer-reviewed journal articles, including 8 as first author, in top-tier methodological and applied journals. A complete list of my refereed journal publications can be found on the [Articles](articles.qmd) page. For additional details on my academic training and experience, please see my [curriculum vitae](Ihnwhi_Heo_CV_Current.pdf).
 
 
 
