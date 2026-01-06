@@ -52,7 +52,7 @@ My program of research is organized around three interconnected lines.
 
 I advance Bayesian methodology for latent variable models, including structural equation models, growth curve models, and mixture models. My research focuses on Bayesian estimation and model evaluation across different prior distributions, and integrates computational methods for Bayesian model averaging and Bayesian regularization.
 
-#### (2) Missing Data Analysis and Methods
+#### (2) Missing Data Analysis
 
 I examine the impact of missing data on latent variable modeling, including latent mediation models, growth curve models, and mixture models. I further develop computational, machine learning, and deep learning approaches for handling missing data within the framework of multiple imputation.
 
