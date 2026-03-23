@@ -24,7 +24,7 @@ image: img/profile.jpg
 
 ### Bio
 
-I am a Ph.D. candidate in Quantitative Methods, Measurement, and Statistics at the University of California, Merced. I will receive my doctorate by May 2026, with a dissertation titled *Advanced Methods for Implementation of Bayesian Growth Mixture Modeling*, funded by the American Psychological Association (APA) and the Society of Multivariate Experimental Psychology (SMEP).
+I am currently a Ph.D. candidate in Quantitative Methods, Measurement, and Statistics at the University of California, Merced. I will receive my doctorate by May 2026, with a dissertation titled *Advanced Methods for Implementation of Bayesian Growth Mixture Modeling*, funded by the American Psychological Association (APA) and the Society of Multivariate Experimental Psychology (SMEP).
 
 My overarching research goal is to advance flexible modeling approaches for complex data in the social and behavioral sciences. I specialize in Bayesian inference, latent variable modeling, and missing data. With these specializations, I integrate quantitative, computational, and machine learning approaches to develop, evaluate, and implement innovative statistical methods that expand their applicability across diverse research contexts. More details can be found in the [Program of Research](#program-of-research).
 

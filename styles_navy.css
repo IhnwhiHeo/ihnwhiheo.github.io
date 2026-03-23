@@ -102,6 +102,11 @@ nav#TOC .nav-link:hover {
 
 
 
+/* === About page: widen the left profile column to prevent subtitle wrapping === */
+.about-entity {
+  min-width: 384px;
+}
+
 /* 본문 내 리스트에만 간격 적용 */
 .content ul > li {
   margin-bottom: 0.8em;
