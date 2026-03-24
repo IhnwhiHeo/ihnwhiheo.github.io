@@ -20,7 +20,9 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme:
+      - simplex
+      - navy-theme.scss
 #      light: simplex
 #      dark: darkly
     css: styles_navy.css

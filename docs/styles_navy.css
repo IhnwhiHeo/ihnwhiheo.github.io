@@ -112,6 +112,40 @@ nav#TOC .nav-link:hover {
   }
 }
 
+/* === Search: override Simplex red with navy === */
+.aa-Item[aria-selected="true"] {
+  background-color: #1c3f95 !important;
+}
+.aa-Item[aria-selected="true"] mark.search-match {
+  background-color: #3a5d8d !important;
+  color: #fff !important;
+}
+mark.search-match {
+  background-color: #b3c4e6 !important;
+  color: inherit !important;
+}
+.aa-Form:focus-within {
+  border-color: #1c3f95 !important;
+  box-shadow: 0 0 0 2px rgba(28, 63, 149, 0.3) !important;
+}
+.search-result-doc.search-item.aa-Item[aria-selected="true"],
+.search-result-more.search-item[aria-selected="true"],
+.search-result-doc-section.search-item[aria-selected="true"] {
+  background-color: #1c3f95 !important;
+}
+.aa-DetachedCancelButton:hover,
+.aa-DetachedCancelButton:focus {
+  border-color: #1c3f95 !important;
+  color: #1c3f95 !important;
+}
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: #1c3f95 !important;
+  border-color: #1c3f95 !important;
+}
+
 /* 본문 내 리스트에만 간격 적용 */
 .content ul > li {
   margin-bottom: 0.8em;
