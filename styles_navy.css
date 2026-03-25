@@ -109,9 +109,14 @@ nav#TOC .nav-link:hover {
 @media (max-width: 767.98px) {
   .about-entity {
     min-width: unset;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    width: 100%;
+    text-align: center;
+  }
+  .about-entity .about-image {
+    max-width: 100%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: block;
   }
 }
 
