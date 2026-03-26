@@ -22,15 +22,15 @@ This page provides a list of peer-reviewed journal articles and manuscripts unde
 
 ## 2026
 
+- Depaoli, S., **Heo, I.**, Jauregui, M., Liu, H., \& Jia, F. (2026). A comprehensive evaluation of model selection indices for class enumeration in Bayesian latent growth mixture models. *Structural Equation Modeling: A Multidisciplinary Journal, 33*(2). 157--176. [https://doi.org/10.1080/10705511.2025.2566135](https://doi.org/10.1080/10705511.2025.2566135)
+  - [PDF](files/papers/Depaoli2026_Comprehensive.pdf)
+  - [OSF](https://osf.io/2resf/)
+  
 - **Heo, I.**, Liu, R., Liu, H., Depaoli, S., \& Jia, F. (2026). A study of latent state-trait theory framework in piecewise growth models. *Applied Psychological Measurement, 50*(1--2). 21--32. [https://doi.org/10.1177/01466216251360565](https://doi.org/10.1177/01466216251360565)
   - [PDF](files/papers/Heo2025_Study.pdf)
   - [OSF](https://osf.io/dmtus/)
 
 ## 2025
-
-- Depaoli, S., **Heo, I.**, Jauregui, M., Liu, H., \& Jia, F. (2025). A comprehensive evaluation of model selection indices for class enumeration in Bayesian latent growth mixture models. *Structural Equation Modeling: A Multidisciplinary Journal*. Advance online publication. [https://doi.org/10.1080/10705511.2025.2566135](https://doi.org/10.1080/10705511.2025.2566135)
-  - [PDF](files/papers/Depaoli2025_Comprehensive.pdf)
-  - [OSF](https://osf.io/2resf/)
 
 - **Heo, I.**, Simons, J.-W., \& Liu, H. (2025). A tutorial on Bayesian model averaging for exponential random graph models. *British Journal of Mathematical and Statistical Psychology*. Advance online publication. [https://doi.org/10.1111/bmsp.70007](https://doi.org/10.1111/bmsp.70007)
   - [PDF](files/papers/Heo2025_Tutorial.pdf)
