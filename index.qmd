@@ -1,6 +1,7 @@
 ---
 title: Ihnwhi Heo
 subtitle: |
+  | Assistant Professor of Quantitative Psychology
   | Quantitative Methodologist and Statistician
 about:
     template: trestles
@@ -23,6 +24,10 @@ image: img/profile.jpg
 ---
 
 ### Bio
+
+:::{.callout-note appearance="minimal"}
+I will join the **University of Oklahoma** as an **Assistant Professor of Quantitative Psychology** in August 2026.
+:::
 
 I am currently a Ph.D. candidate in Quantitative Methods, Measurement, and Statistics at the University of California, Merced. I will receive my doctorate by May 2026, with a dissertation titled *Advanced Methods for Implementation of Bayesian Growth Mixture Modeling*, funded by the American Psychological Association (APA) and the Society of Multivariate Experimental Psychology (SMEP).
 
