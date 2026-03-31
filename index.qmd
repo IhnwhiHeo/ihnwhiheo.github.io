@@ -2,7 +2,6 @@
 title: Ihnwhi Heo
 subtitle: |
   | Assistant Professor of Quantitative Psychology
-  | Quantitative Methodologist and Statistician
 about:
     template: trestles
     links:
