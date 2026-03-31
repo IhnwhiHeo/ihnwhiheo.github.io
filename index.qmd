@@ -1,7 +1,7 @@
 ---
 title: Ihnwhi Heo
 subtitle: |
-  | Assistant Professor of Quantitative Psychology
+  | Incoming Assistant Professor of Psychology
 about:
     template: trestles
     links:
