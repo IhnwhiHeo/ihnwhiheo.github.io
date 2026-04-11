@@ -14,13 +14,13 @@ This page provides a list of peer-reviewed journal articles and manuscripts unde
 
 ## In Press
 
-- **Heo, I.**, \& Jeon, M. (in press). Rethinking the evaluation of psychological theories: A commentary on Calderon et al.'s registered replication report. *Advances in Methods and Practices in Psychological Science*. [https://doi.org/10.1177/25152459261440485](https://doi.org/10.1177/25152459261440485)
-  - PDF is forthcoming.
-
 - **Heo, I.**, Jia, F., \& Depaoli, S. (in press). Bayesian variable selection via shrinkage priors in growth mixture models. *Multivariate Behavioral Research*.
   - PDF is forthcoming.
 
 ## 2026
+
+- **Heo, I.**, \& Jeon, M. (2026). Rethinking the evaluation of psychological theories: A commentary on Calderon et al.'s registered replication report. *Advances in Methods and Practices in Psychological Science, 9*(2). 1--7. [https://doi.org/10.1177/25152459261440485](https://doi.org/10.1177/25152459261440485)
+  - PDF is forthcoming.
 
 - Depaoli, S., **Heo, I.**, Jauregui, M., Liu, H., \& Jia, F. (2026). A comprehensive evaluation of model selection indices for class enumeration in Bayesian latent growth mixture models. *Structural Equation Modeling: A Multidisciplinary Journal, 33*(2). 157--176. [https://doi.org/10.1080/10705511.2025.2566135](https://doi.org/10.1080/10705511.2025.2566135)
   - [PDF](files/papers/Depaoli2026_Comprehensive.pdf)
