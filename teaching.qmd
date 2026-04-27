@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+---
+
+This page lists the courses I teach in the Department of Psychology at the University of Oklahoma.
+
+
+
+## Graduate
+
+- PSY 6063: Bayesian Statistics
+- PSY 6073: Experimental Design for Psychology
+
+## Undergraduate
+
+- PSY 2003: Understanding Statistics

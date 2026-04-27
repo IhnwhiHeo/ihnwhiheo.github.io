@@ -11,7 +11,10 @@ website:
     left:
       - href: index.qmd
         text: Profile
-      - articles.qmd
+      - href: articles.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
 #      - talks.qmd
   google-analytics: 
     tracking-id: "G-FHK2YX1CJQ" # "357254636" 
