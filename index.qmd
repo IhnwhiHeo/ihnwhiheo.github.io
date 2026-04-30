@@ -11,8 +11,8 @@ about:
           url: https://scholar.google.com/citations?user=r365MK4AAAAJ&hl=en
         - text: "{{< fa envelope >}}"
           url: mailto:ihnwhi.heo@gmail.com
-        - icon: github
-          url: https://github.com/IhnwhiHeo
+#        - icon: github
+#          url: https://github.com/IhnwhiHeo
         - icon: linkedin
           url: https://www.linkedin.com/in/ihnwhi-heo
 #        - text: 𝕏
