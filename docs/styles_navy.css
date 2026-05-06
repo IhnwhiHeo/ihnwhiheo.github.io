@@ -166,6 +166,5 @@ mark.search-match {
 
 /* === 긴 DOI 링크 모바일 줄바꿈 === */
 .content a {
-  word-break: break-all;
   overflow-wrap: break-word;
 }
