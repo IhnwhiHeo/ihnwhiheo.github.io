@@ -19,14 +19,14 @@ This page provides a list of peer-reviewed journal articles and manuscripts unde
 
 ## 2026
 
-- **Heo, I.**, \& Jeon, M. (2026). Rethinking the evaluation of psychological theories: A commentary on Calderon et al.'s registered replication report. *Advances in Methods and Practices in Psychological Science, 9*(2). 1--7. [https://doi.org/10.1177/25152459261440485](https://doi.org/10.1177/25152459261440485)
+- **Heo, I.**, \& Jeon, M. (2026). Rethinking the evaluation of psychological theories: A commentary on Calderon et al.'s registered replication report. *Advances in Methods and Practices in Psychological Science, 9*(2), 1--7. [https://doi.org/10.1177/25152459261440485](https://doi.org/10.1177/25152459261440485)
   - PDF is forthcoming.
 
-- Depaoli, S., **Heo, I.**, Jauregui, M., Liu, H., \& Jia, F. (2026). A comprehensive evaluation of model selection indices for class enumeration in Bayesian latent growth mixture models. *Structural Equation Modeling: A Multidisciplinary Journal, 33*(2). 157--176. [https://doi.org/10.1080/10705511.2025.2566135](https://doi.org/10.1080/10705511.2025.2566135)
+- Depaoli, S., **Heo, I.**, Jauregui, M., Liu, H., \& Jia, F. (2026). A comprehensive evaluation of model selection indices for class enumeration in Bayesian latent growth mixture models. *Structural Equation Modeling: A Multidisciplinary Journal, 33*(2), 157--176. [https://doi.org/10.1080/10705511.2025.2566135](https://doi.org/10.1080/10705511.2025.2566135)
   - [PDF](files/papers/Depaoli2026_Comprehensive.pdf)
   - [OSF](https://osf.io/2resf/)
   
-- **Heo, I.**, Liu, R., Liu, H., Depaoli, S., \& Jia, F. (2026). A study of latent state-trait theory framework in piecewise growth models. *Applied Psychological Measurement, 50*(1--2). 21--32. [https://doi.org/10.1177/01466216251360565](https://doi.org/10.1177/01466216251360565)
+- **Heo, I.**, Liu, R., Liu, H., Depaoli, S., \& Jia, F. (2026). A study of latent state-trait theory framework in piecewise growth models. *Applied Psychological Measurement, 50*(1--2), 21--32. [https://doi.org/10.1177/01466216251360565](https://doi.org/10.1177/01466216251360565)
   - [PDF](files/papers/Heo2025_Study.pdf)
   - [OSF](https://osf.io/dmtus/)
 
@@ -36,34 +36,34 @@ This page provides a list of peer-reviewed journal articles and manuscripts unde
   - [PDF](files/papers/Heo2025_Tutorial.pdf)
   - [OSF](https://osf.io/g9eq4/)
 
-- **Heo, I.**, Jia, F., \& Depaoli, S. (2025). Recovering knot placements in Bayesian piecewise growth models with missing data. *Behavior Research Methods, 57*(7). 1--27. [https://doi.org/10.3758/s13428-025-02716-0](https://doi.org/10.3758/s13428-025-02716-0)
+- **Heo, I.**, Jia, F., \& Depaoli, S. (2025). Recovering knot placements in Bayesian piecewise growth models with missing data. *Behavior Research Methods, 57*(7), 1--27. [https://doi.org/10.3758/s13428-025-02716-0](https://doi.org/10.3758/s13428-025-02716-0)
   - [PDF](files/papers/Heo2025_Recovering.pdf)
   - [OSF](https://osf.io/j46bf/)
 
-- Liu, H., **Heo, I.**, Ivanov, A., \& Depaoli, S. (2025). Model assumption violations in Bayesian latent mediation analysis: An exploration of Bayesian SEM fit indices and PPP. *Structural Equation Modeling: A Multidisciplinary Journal, 32*(5). 866--896. [https://doi.org/10.1080/10705511.2025.2503789](https://doi.org/10.1080/10705511.2025.2503789)
+- Liu, H., **Heo, I.**, Ivanov, A., \& Depaoli, S. (2025). Model assumption violations in Bayesian latent mediation analysis: An exploration of Bayesian SEM fit indices and PPP. *Structural Equation Modeling: A Multidisciplinary Journal, 32*(5), 866--896. [https://doi.org/10.1080/10705511.2025.2503789](https://doi.org/10.1080/10705511.2025.2503789)
   - [PDF](files/papers/Liu2025_Model.pdf)
 
-- Liu, H., **Heo, I.**, Depaoli, S., \& Ivanov, A. (2025). Parameter recovery for misspecified latent mediation models in the Bayesian framework. *Structural Equation Modeling: A Multidisciplinary Journal, 32*(4). 618--637. [https://doi.org/10.1080/10705511.2025.2475490](https://doi.org/10.1080/10705511.2025.2475490) 
+- Liu, H., **Heo, I.**, Depaoli, S., \& Ivanov, A. (2025). Parameter recovery for misspecified latent mediation models in the Bayesian framework. *Structural Equation Modeling: A Multidisciplinary Journal, 32*(4), 618--637. [https://doi.org/10.1080/10705511.2025.2475490](https://doi.org/10.1080/10705511.2025.2475490) 
   - [PDF](files/papers/Liu2025_Parameter.pdf)
 	
-- **Heo, I.**, Pfadt, J. M., \& Wagenmakers, E.-J. (2025). Contributed discussion of "Sparse Bayesian factor analysis when the number of factors is unknown". *Bayesian Analysis, 20*(1). 295--296. [https://doi.org/10.1214/24-BA1423](https://doi.org/10.1214/24-BA1423)
+- **Heo, I.**, Pfadt, J. M., \& Wagenmakers, E.-J. (2025). Contributed discussion of "Sparse Bayesian factor analysis when the number of factors is unknown". *Bayesian Analysis, 20*(1), 295--296. [https://doi.org/10.1214/24-BA1423](https://doi.org/10.1214/24-BA1423)
   - [PDF](files/papers/Heo2024_Contributed.pdf)
 
 
 ## 2024
 
-- **Heo, I.**, Depaoli, S., Jia, F., \& Liu, H. (2024). Bayesian approach to piecewise growth mixture modeling: Issues and applications in school psychology. *Journal of School Psychology, 107*. 101366. [https://doi.org/10.1016/j.jsp.2024.101366](https://doi.org/10.1016/j.jsp.2024.101366) 
+- **Heo, I.**, Depaoli, S., Jia, F., \& Liu, H. (2024). Bayesian approach to piecewise growth mixture modeling: Issues and applications in school psychology. *Journal of School Psychology, 107*, 101366. [https://doi.org/10.1016/j.jsp.2024.101366](https://doi.org/10.1016/j.jsp.2024.101366) 
   - [PDF](files/papers/Heo2024_Bayesian.pdf)
   - [OSF](https://osf.io/udrb8/)
 
-- **Heo, I.**, Jia, F., \& Depaoli, S. (2024). Performance of model fit and selection indices for Bayesian piecewise growth modeling with missing data. *Structural Equation Modeling: A Multidisciplinary Journal, 31*(3). 455--476. [https://doi.org/10.1080/10705511.2023.2264514](https://doi.org/10.1080/10705511.2023.2264514) 
+- **Heo, I.**, Jia, F., \& Depaoli, S. (2024). Performance of model fit and selection indices for Bayesian piecewise growth modeling with missing data. *Structural Equation Modeling: A Multidisciplinary Journal, 31*(3), 455--476. [https://doi.org/10.1080/10705511.2023.2264514](https://doi.org/10.1080/10705511.2023.2264514) 
   - [PDF](files/papers/Heo2024_Performance.pdf)
   - [OSF](https://osf.io/agn4x/)
 
 
 ## 2023
 
-- Depaoli, S., Jia, F., \& **Heo, I.** (2023). Detecting model misspecification in Bayesian piecewise growth models. *Structural Equation Modeling: A Multidisciplinary Journal, 30*(4). 574--591. [https://doi.org/10.1080/10705511.2022.2144865](https://doi.org/10.1080/10705511.2022.2144865) 
+- Depaoli, S., Jia, F., \& **Heo, I.** (2023). Detecting model misspecification in Bayesian piecewise growth models. *Structural Equation Modeling: A Multidisciplinary Journal, 30*(4), 574--591. [https://doi.org/10.1080/10705511.2022.2144865](https://doi.org/10.1080/10705511.2022.2144865) 
   - [PDF](files/papers/Depaoli2023_Detecting.pdf)
   - [OSF](https://osf.io/myrds/)
 
