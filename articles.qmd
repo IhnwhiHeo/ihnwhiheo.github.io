@@ -10,7 +10,7 @@ This page provides a list of peer-reviewed journal articles and manuscripts unde
 
 - Peña, M., **Heo, I.**, Depaoli, S., \& Zawadzki, M. J. (submitted). Identifying screening-level predictors of enrollment in a mobile mindfulness meditation trial: A Bayesian model-averaged logistic regression approach. *JMIR Preprints*. [https://preprints.jmir.org/preprint/86696](https://preprints.jmir.org/preprint/86696)
 
-- Jia, F., **Heo, I.**, Depaoli, S., \& Li, Y. (revise \& resubmit). Latent mediation analysis with missing data: A comparison of Bayesian SEM and Monte Carlo–adjusted frequentist approaches.
+- Jia, F., **Heo, I.**, Depaoli, S., \& Li, Y. (revise \& resubmit). Latent mediation analysis with missing data: A comparison of Bayesian and frequentist approaches.
 
 ## 2026
 
