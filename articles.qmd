@@ -15,7 +15,7 @@ This page provides a list of peer-reviewed journal articles and manuscripts unde
 ## 2026
 
 - **Heo, I.**, Jia, F., \& Depaoli, S. (2026). Bayesian variable selection via shrinkage priors in growth mixture models. *Multivariate Behavioral Research*. Advance online publication. [https://doi.org/10.1080/00273171.2026.2673279](https://doi.org/10.1080/00273171.2026.2673279)
-  - PDF is forthcoming.
+  - [PDF](files/papers/Heo2026_Bayesian.pdf)
 
 - **Heo, I.**, \& Jeon, M. (2026). Rethinking the evaluation of psychological theories: A commentary on Calderon et al.'s registered replication report. *Advances in Methods and Practices in Psychological Science, 9*(2), 1--7. [https://doi.org/10.1177/25152459261440485](https://doi.org/10.1177/25152459261440485)
   - PDF is forthcoming.
