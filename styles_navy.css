@@ -122,7 +122,13 @@ nav#TOC .nav-link:hover {
   margin-bottom: 0;
 }
 .about-entity .about-links {
-  margin-top: 1rem;    /* gap: title -> links */
+  margin-top: 1rem;    /* gap: title -> links (desktop) */
+}
+/* Mobile (theme stacks links vertically <992px): give the title->links gap more room */
+@media (max-width: 991.98px) {
+  .about-entity .about-links {
+    margin-top: 2rem;
+  }
 }
 
 /* === About page: widen the left profile column to prevent subtitle wrapping === */
