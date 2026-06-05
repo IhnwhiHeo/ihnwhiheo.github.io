@@ -102,6 +102,29 @@ nav#TOC .nav-link:hover {
 
 
 
+/* === About page: even vertical spacing between name, subtitle, and links === */
+/* Zero out every gap source, then give the subtitle equal top/bottom margins
+   so name->subtitle and subtitle->links spacing is identical. */
+.about-entity h1.title {
+  margin-bottom: 0;
+}
+.about-entity .subtitle.lead {
+  font-size: 1rem;
+  font-weight: 400;
+  margin-top: 0.6rem;    /* gap: name -> title */
+  margin-bottom: 0;
+}
+.about-entity .quarto-title-meta {
+  margin: 0;
+  padding: 0;
+}
+.about-entity #title-block-header {
+  margin-bottom: 0;
+}
+.about-entity .about-links {
+  margin-top: 1rem;    /* gap: title -> links */
+}
+
 /* === About page: widen the left profile column to prevent subtitle wrapping === */
 .about-entity {
   min-width: 384px;
