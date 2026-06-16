@@ -1,5 +1,5 @@
 ---
-title: Ihnwhi Heo
+title: Ihnwhi Heo, Ph.D.
 subtitle: "Assistant Professor of Quantitative Psychology"
 about:
     template: trestles
