@@ -3,11 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: Ihnwhi Heo
+  title: Quantitative Psychology
   description: "Assistant Professor of Quantitative Psychology"
   site-url: https://ihnwhiheo.github.io
   favicon: img/iheofavi.png
+  open-graph: true
   navbar:
+    title: "Ihnwhi Heo, Ph.D."
 #    logo: img/logo_heo.png
     left:
       - href: index.qmd
