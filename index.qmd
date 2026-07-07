@@ -23,10 +23,11 @@ image: img/profile.jpg
 
 ### Bio
 
-
+<!--
 ::: {.callout-note appearance="minimal" title="Fall 2027 Prospective Ph.D. Students"}
 I anticipate recruiting Ph.D. students to join the Quantitative Psychology program in Fall 2027. I welcome applicants with interests and/or experience in Bayesian statistics, latent variable modeling, missing data, and AI-assisted quantitative methods. If your research interests align with mine, please feel free to contact me by email.
 :::
+-->
 
 I will join the University of Oklahoma as an Assistant Professor of Quantitative Psychology in August 2026. I completed a Ph.D. in Quantitative Methods, Measurement, and Statistics at the University of California, Merced in 2026, an M.Sc. in Methodology and Statistics (Cum Laude) at Utrecht University in 2021, and a B.A. in Psychology (Highest Honors) at Sungkyunkwan University in 2019.
 
