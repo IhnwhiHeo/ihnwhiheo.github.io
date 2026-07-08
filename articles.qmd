@@ -18,7 +18,7 @@ This page provides a list of peer-reviewed journal articles and manuscripts unde
   - [PDF](files/papers/Heo2026_Bayesian.pdf)
 
 - **Heo, I.**, \& Jeon, M. (2026). Rethinking the evaluation of psychological theories: A commentary on Calderon et al.'s registered replication report. *Advances in Methods and Practices in Psychological Science, 9*(2), 1--7. [https://doi.org/10.1177/25152459261440485](https://doi.org/10.1177/25152459261440485)
-  - PDF is forthcoming.
+  - [PDF](files/papers/Heo2026_Rethinking.pdf)
 
 - Depaoli, S., **Heo, I.**, Jauregui, M., Liu, H., \& Jia, F. (2026). A comprehensive evaluation of model selection indices for class enumeration in Bayesian latent growth mixture models. *Structural Equation Modeling: A Multidisciplinary Journal, 33*(2), 157--176. [https://doi.org/10.1080/10705511.2025.2566135](https://doi.org/10.1080/10705511.2025.2566135)
   - [PDF](files/papers/Depaoli2026_Comprehensive.pdf)
