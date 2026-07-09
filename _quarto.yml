@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - Ihnwhi_Heo_CV_Current.pdf
 
 website:
   description: "Assistant Professor of Quantitative Psychology"
