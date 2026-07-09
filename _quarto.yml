@@ -3,7 +3,6 @@ project:
   output-dir: docs
 
 website:
-  title: Quantitative Psychology
   description: "Assistant Professor of Quantitative Psychology"
   site-url: https://ihnwhiheo.github.io
   favicon: img/iheofavi.png
