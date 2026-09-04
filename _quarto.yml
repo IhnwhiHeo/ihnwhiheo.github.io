@@ -19,7 +19,6 @@ website:
         text: Publications
       - href: teaching.qmd
         text: Teaching
-#      - talks.qmd
   google-analytics: 
     tracking-id: "G-FHK2YX1CJQ" # "357254636" 
   page-footer:
