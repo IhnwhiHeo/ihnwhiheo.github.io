@@ -12,3 +12,4 @@ This page lists the courses I teach in the Department of Psychology at the Unive
 ## Undergraduate
 
 - PSY 2003: Understanding Statistics
+- PSY G4940: Applied Bayesian Data Analysis
