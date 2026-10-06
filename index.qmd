@@ -7,6 +7,8 @@ about:
     links:
         - text: CV
           url: "Ihnwhi_Heo_CV_Current.pdf"
+        - text: '<img src="img/ou-logo.png" alt="OU" style="height:1em; vertical-align:-0.125em;">'
+          url: https://www.ou.edu/cas/psychology/people/faculty/ihnwhi-heo
         - text: "{{< ai google-scholar >}}"
           url: https://scholar.google.com/citations?user=r365MK4AAAAJ&hl=en
         - text: "{{< fa envelope >}}"
