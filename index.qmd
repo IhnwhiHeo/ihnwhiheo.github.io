@@ -21,7 +21,7 @@ about:
 #          url: https://twitter.com/epichrisis
         - text: "{{< ai orcid >}}"
           url: https://orcid.org/0000-0002-6123-3639
-image: img/profile.jpg
+image: img/profile2.jpg
 ---
 
 ### Bio
