@@ -7,9 +7,18 @@ This page lists the courses I teach in the Department of Psychology at the Unive
 ## Graduate
 
 - PSY 6063: Bayesian Statistics
+- PSY 6063: Bayesian Structural Equation Modeling
+- PSY 6063: Large Language Models
 - PSY 6073: Experimental Design for Psychology
 
 ## Undergraduate
 
 - PSY 2003: Understanding Statistics
+  <!--
+  <details>
+  <summary>Student Feedback</summary>
+  - "Dr. Heo made statistics engaging and easy to understand."
+  - "One of the most supportive instructors I've had."
+  </details>
+  -->
 - PSY G4940: Applied Bayesian Data Analysis
