@@ -21,4 +21,4 @@ This page lists the courses I teach in the Department of Psychology at the Unive
   - "One of the most supportive instructors I've had."
   </details>
   -->
-- PSY G4940: Applied Bayesian Data Analysis
+- PSY 4920: Applied Bayesian Data Analysis
